@@ -12,4 +12,4 @@ ss('https://google.com').then(d =>{
 })
 ```
 # Example
-[![Pic](./image2.png)]
+![Pic](./image2.png)
