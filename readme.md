@@ -11,4 +11,4 @@ ss('https://google.com').then(d =>{
     fs.writeFile('image.png' , d , (err, data) => {})
 })
 ```
-[![Pic]](./image2.png)
+[![Pic](./image2.png)]
